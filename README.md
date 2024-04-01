@@ -2,21 +2,16 @@
 
 ### HI There ✨ ! This is Syed Aasim Shah
 
-Here are some ideas to get you started:
-
-- 💬 Ask me about full-stack development, JavaScript frameworks, and anything tech!
-- 📫 How to reach me: [📨](mailto:contact@aasimshah.com) or [✔️](https://www.linkedin.com/in/aasimshah/)
-- ⚡ Fun fact: I've completed over 50 projects from start to deployment as a freelancer.
 
 ### 🛠 &nbsp;Tech Stack
 
 Here are the technologies I'm experienced with:
 
-- 🌐 &nbsp;JavaScript | React.js | Node.js | Express.js | MongoDB
-- 🛢 &nbsp;MySQL | Firebase | GraphQL
-- 🚀 &nbsp;AWS | Azure | Docker | CI/CD | Kubernetes
+- 🌐 &nbsp;Frontend :  React.js | Next.js
+- 🚀 &nbsp;Backend | Nodejs | Expressjs
+- 🛢 &nbsp; Databases : MySQL | Firebase | GraphQL
 - 🔧 &nbsp;Git | Markdown | Selenium | Jest
-- 🖥 &nbsp;HTML5 | CSS3 | Bootstrap | Material-UI | Tailwind CSS
+- 🖥 &nbsp;HTML5 | CSS3 | Bootstrap | charts | Tailwind CSS
 
 ### 📈 &nbsp;GitHub Stats
 
