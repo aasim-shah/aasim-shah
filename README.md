@@ -27,7 +27,7 @@ Here are the technologies I'm experienced with:
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="right">
+<p align="left">
 <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
