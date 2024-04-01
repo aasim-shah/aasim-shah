@@ -1,4 +1,4 @@
-![MERN Stack](https://sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png)
+![MERN Stack](https://e1.pxfuel.com/desktop-wallpaper/506/510/desktop-wallpaper-mern-stack-full-stack-developer.jpg)
 
 ### HI There ! This is Syed Aasim Shah
 
