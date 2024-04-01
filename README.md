@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 💬 Ask me about full-stack development, JavaScript frameworks, and anything tech!
-- 📫 How to reach me: [contact@aasimshah.com](mailto:youremail@example.com) or [LinkedIn](https://www.linkedin.com/in/aasimshah/)
+- 📫 How to reach me: [📨](mailto:contact@aasimshah.com) or [✔️](https://www.linkedin.com/in/aasimshah/)
 - ⚡ Fun fact: I've completed over 50 projects from start to deployment as a freelancer.
 
 ### 🛠 &nbsp;Tech Stack
@@ -32,7 +32,7 @@ Here are the technologies I'm experienced with:
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
+<p align="right">
 <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
