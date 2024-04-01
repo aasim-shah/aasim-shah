@@ -1,16 +1,11 @@
 ![MERN Stack](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/197046863/original/e36d1d8a11dd121bca90d4ca191e9baa4cdccd48/front-end-web-development-fully-responsive-websites.png)
 
-### HI There ! This is Syed Aasim Shah
+### HI There ✨ ! This is Syed Aasim Shah
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a MERN stack project.
-- 🌱 I’m currently learning more about cloud technologies and microservices.
-- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
-- 🤔 I’m looking for help with advanced DevOps techniques.
 - 💬 Ask me about full-stack development, JavaScript frameworks, and anything tech!
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [contact@aasimshah.com](mailto:youremail@example.com) or [LinkedIn](https://www.linkedin.com/in/aasimshah/)
 - ⚡ Fun fact: I've completed over 50 projects from start to deployment as a freelancer.
 
 ### 🛠 &nbsp;Tech Stack
