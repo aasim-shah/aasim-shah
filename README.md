@@ -13,26 +13,17 @@ Here are the technologies I'm experienced with:
 - 🔧 &nbsp;Git | Markdown | Selenium | Jest
 - 🖥 &nbsp;HTML5 | CSS3 | Bootstrap | charts | Tailwind CSS
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
 ### 📈 &nbsp;GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasim-shah&show_icons=true&theme=tokyonight)
 
-    </td>
-    <td valign="top" width="50%">
-
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
+<a href="https://github.com/aasim-shah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aasim-shah&theme=buefy&layout=compact" />
+</a>
 </p>
-
-    </td>
-  </tr>
-</table>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
