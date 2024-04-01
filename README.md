@@ -13,32 +13,21 @@ Here are the technologies I'm experienced with:
 - 🔧 &nbsp;Git | Markdown | Selenium | Jest
 - 🖥 &nbsp;HTML5 | CSS3 | Bootstrap | charts | Tailwind CSS
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
 ### 📈 &nbsp;GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasim-shah&show_icons=true&theme=tokyonight)
 
-    </td>
-    <td valign="top" width="50%">
-
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
+<a href="https://github.com/aasim-shah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aasim-shah&theme=buefy&layout=compact" />
+</a>
 </p>
 
-    </td>
-  </tr>
-</table>
+### 🤝🏻 &nbsp;Connect with Me
 
-
-
-### 🤝 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00457C?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_PROFILE_URL)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=algolia)
+<p align="left">
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
