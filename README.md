@@ -1,4 +1,4 @@
-![MERN Stack](https://media.licdn.com/dms/image/D4D16AQEMSl_7-ln2ow/profile-displaybackgroundimage-shrink_350_1400/0/1702805596732?e=1717632000&v=beta&t=7zmpJAiXHCEPeZ0hUntSSB1aZXdcEjzksczhSL5L4dw)
+![MERN Stack](https://sbr-technologies.com/wp-content/uploads/2021/07/Mern-Stack-Developer.png)
 
 ### HI There ! This is Syed Aasim Shah
 
