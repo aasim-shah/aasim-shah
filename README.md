@@ -1,8 +1,6 @@
-### Hi there 👋
+![MERN Stack](https://media.licdn.com/dms/image/D4D16AQEMSl_7-ln2ow/profile-displaybackgroundimage-shrink_350_1400/0/1702805596732?e=1717632000&v=beta&t=7zmpJAiXHCEPeZ0hUntSSB1aZXdcEjzksczhSL5L4dw)
 
-<!--
-**aasim-shah/aasim-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### HI There ! This is Syed Aasim Shah
 
 Here are some ideas to get you started:
 
