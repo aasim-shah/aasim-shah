@@ -1,4 +1,4 @@
-![MERN Stack](https://e1.pxfuel.com/desktop-wallpaper/506/510/desktop-wallpaper-mern-stack-full-stack-developer.jpg)
+![MERN Stack](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/197046863/original/e36d1d8a11dd121bca90d4ca191e9baa4cdccd48/front-end-web-development-fully-responsive-websites.png)
 
 ### HI There ! This is Syed Aasim Shah
 
