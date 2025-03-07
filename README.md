@@ -1,7 +1,7 @@
 
-### HI There ✨ ! This is Syed Aasim Shah
+### HI There ✨ ! This is Syed Aasim Shah & i am a [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mern+stack+developer;Backend+developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 
 ### 🛠 &nbsp;Tech Stack
