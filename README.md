@@ -1,14 +1,14 @@
 
-### HI There ✨ ! This is Syed Aasim Shah & i am a
+### HI There ✨ ! This is Syed Aasim Shah 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Design;Develop;Debug;Deploy)](https://git.io/typing-svg)
 
 ### 🛠 &nbsp;Tech Stack
 
 I am a self-taught and passionate Full Stack Developer.
 
-🗃️ Working on multiple frontend and backend projects utilizing the MERN tech stack.
-🍃 Passionate about creating efficient, scalable, and user-friendly web applications.
-🧑‍💻 Currently developing a AI SASS Projects.
+- 🗃️ Working on multiple frontend and backend projects utilizing the MERN tech stack.
+- 🍃 Passionate about creating efficient, scalable, and user-friendly web applications.
+- 🧑‍💻 Currently developing a AI SASS Projects.
 
 
 
