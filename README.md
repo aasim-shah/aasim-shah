@@ -1,16 +1,14 @@
 
 ### HI There ✨ ! This is Syed Aasim Shah & i am a
-- 🌐 &nbsp;  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mern+stack+developer;Backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Design;Develop;Debug;Deploy)](https://git.io/typing-svg)
 
 ### 🛠 &nbsp;Tech Stack
 
-Here are the technologies I'm experienced with:
+I am a self-taught and passionate Full Stack Developer.
 
-- 🌐 &nbsp;Frontend :  React.js | Next.js
-- 🚀 &nbsp;Backend | Nodejs | Expressjs
-- 🛢 &nbsp; Databases : MySQL | Firebase | GraphQL
-- 🔧 &nbsp;Git | Markdown | Selenium | Jest
-- 🖥 &nbsp;HTML5 | CSS3 | Bootstrap | charts | Tailwind CSS
+🗃️ Working on multiple frontend and backend projects utilizing the MERN tech stack.
+🍃 Passionate about creating efficient, scalable, and user-friendly web applications.
+🧑‍💻 Currently developing a AI SASS Projects.
 
 
 
