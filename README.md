@@ -1,4 +1,4 @@
-# Hi There ✨ ! I'm Syed Aasim Shah
+ Hi There ✨ ! I'm Syed Aasim Shah
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+MERN+Stack+Developer;Building+Scalable+Web+Applications;Next.js+%7C+Fastify+%7C+TypeScript;Passionate+about+Tech+%26+Public+Speaking;DevOps+%7C+Docker+%7C+CI%2FCD)](https://git.io/typing-svg)
 
@@ -10,7 +10,8 @@ I am a self-taught and passionate Full Stack Developer.
 - 🍃 Passionate about creating efficient, scalable, and user-friendly web applications.
 - 🧑‍💻 Currently developing AI SaaS projects.
 
-Want to know more?
+<details>
+  <summary>📌 Want to know more?</summary>
 
 ## 👋 Hello, I'm Syed Aasim Shah
 
@@ -33,8 +34,8 @@ I specialize in creating robust, scalable solutions, and I continuously enhance 
 ### DevOps & Tools:
 - Git, GitHub, Docker, CI/CD, Postman, VS Code
 
-### Others:
-- C++, Python, Figma, Editing, Canva
+
+</details>
 
 ## ⚙️ GitHub Analytics
 
