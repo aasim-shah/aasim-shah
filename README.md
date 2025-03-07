@@ -1,6 +1,8 @@
 
 ### HI There ✨ ! This is Syed Aasim Shah
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -12,9 +14,7 @@ Here are the technologies I'm experienced with:
 - 🔧 &nbsp;Git | Markdown | Selenium | Jest
 - 🖥 &nbsp;HTML5 | CSS3 | Bootstrap | charts | Tailwind CSS
 
-### 📈 &nbsp;GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasim-shah&show_icons=true&theme=tokyonight)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
